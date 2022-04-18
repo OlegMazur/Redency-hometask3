@@ -1,0 +1,29 @@
+{
+  "name": "redency-hometask3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/OlegMazur/Redency-hometask3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/OlegMazur/Redency-hometask3/issues"
+  },
+  "homepage": "https://github.com/OlegMazur/Redency-hometask3#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
